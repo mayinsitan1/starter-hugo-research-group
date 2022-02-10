@@ -14,4 +14,4 @@ hero_media: welcome.jpg
 ---
 <br>
 
-We integrate empirical study and mechanistic models to understand species' responses to environmental changes and related fitness consequences.
+We integrate empirical study and mechanistic model to understand species' response to environmental change and related fitness consequence.
